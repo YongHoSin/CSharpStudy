@@ -1,0 +1,10 @@
+C:\Users\dydgh\source\repos\HellowCSharpWin\HellowCSharpWin\bin\Debug\HellowCSharpWin.exe.config
+C:\Users\dydgh\source\repos\HellowCSharpWin\HellowCSharpWin\bin\Debug\HellowCSharpWin.exe
+C:\Users\dydgh\source\repos\HellowCSharpWin\HellowCSharpWin\bin\Debug\HellowCSharpWin.pdb
+C:\Users\dydgh\source\repos\HellowCSharpWin\HellowCSharpWin\obj\Debug\HellowCSharpWin.csprojAssemblyReference.cache
+C:\Users\dydgh\source\repos\HellowCSharpWin\HellowCSharpWin\obj\Debug\HellowCSharpWin.Calculator.resources
+C:\Users\dydgh\source\repos\HellowCSharpWin\HellowCSharpWin\obj\Debug\HellowCSharpWin.Properties.Resources.resources
+C:\Users\dydgh\source\repos\HellowCSharpWin\HellowCSharpWin\obj\Debug\HellowCSharpWin.csproj.GenerateResource.cache
+C:\Users\dydgh\source\repos\HellowCSharpWin\HellowCSharpWin\obj\Debug\HellowCSharpWin.csproj.CoreCompileInputs.cache
+C:\Users\dydgh\source\repos\HellowCSharpWin\HellowCSharpWin\obj\Debug\HellowCSharpWin.exe
+C:\Users\dydgh\source\repos\HellowCSharpWin\HellowCSharpWin\obj\Debug\HellowCSharpWin.pdb

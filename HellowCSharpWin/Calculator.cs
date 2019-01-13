@@ -27,14 +27,14 @@ namespace HellowCSharpWin
 
         public int Add(int number1, int number2)
         {
-            int sum = number1 + number2;            
+            int sum = number1 + number2;
+            MessageBox.Show("깃허브 첫번째 수정")
             return sum;
         }
 
         public float Add(float number1, float number2)
         {       
             float sum = number1 + number2;
-            MessageBox.Show("깃허브 두번째 수정");
             return sum;       
         }
 
